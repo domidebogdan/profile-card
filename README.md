@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [frontendmentor.io dbd-profile-card](https://your-solution-url.com)
-- Live Site URL: [dbd-profile-card.netlify.app](https://dbd-profile-card.netlify.app)
+- Solution URL: [frontendmentor.io dbd-profile-card](https://www.frontendmentor.io/solutions/profile-card-component-3soTWEqd4V)
+- Live Site URL: [dbd-profile-component.netlify.app](https://dbd-profile-component.netlify.app/)
 
 ## My process
 
